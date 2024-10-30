@@ -1,38 +1,15 @@
-# Drone_localization
+# Repository Summary
 
-Papers and some useful repoes-
-**JointLoc-**
-Paper - https://arxiv.org/pdf/2405.07429v1
-Repo - https://github.com/luoxubo/jointloc?tab=readme-ov-file
-
-**TransGeo2022-**
-Repo - https://github.com/Jeff-Zilence/TransGeo2022
-Youtube - https://www.youtube.com/watch?v=hUI9FJWYgPE
-
-**FSRA-**
-Repo - https://github.com/Dmmm1997/FSRA?tab=readme-ov-file
-
-**GTA-UAV-**
-Repo - https://github.com/Yux1angJi/GTA-UAV
-
-**Dino mix-**
-Repo - https://github.com/GaoShuang98/DINO-Mix
-
-**Just some cool Geo text database-**
-Repo - https://github.com/MultimodalGeo/GeoText-1652
-
-**Great data set of drone view street and satellite-**
-Repo - https://github.com/layumi/University1652-Baseline
-*Contains a pipeline for training as well
-
-**Good practical example-**
-Repo - https://github.com/TerboucheHacene/visual_localization
-
-**Huge satellite image deel learning thechniques-**
-Repo - https://github.com/satellite-image-deep-learning/techniques
-
-**Great UAV and satellite Imagery dataset-**
-Repo - https://github.com/IntelliSensing/UAV-VisLoc/tree/main
-
-**Live example with datasets-**
-https://github.com/hmf21/UAVLocalization/tree/main
+| Repo Name                                    | Link                                                                                                          | Description                                                     | Key Features                                                 | Datasets Used                   | Video Link                                                            | Application Area                |
+|----------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------|---------------------------------|------------------------------------------------------------------------|---------------------------------|
+| **JointLoc**                                 | [GitHub](https://github.com/luoxubo/jointloc?tab=readme-ov-file)                                              | *Information beyond my knowledge cutoff in October 2023.*       | N/A                                                          | N/A                             | N/A                                                                    | N/A                             |
+| **TransGeo2022**                             | [GitHub](https://github.com/Jeff-Zilence/TransGeo2022)                                                        | Transformer-based approach for cross-view geo-localization.     | Utilizes Transformer architecture to match ground and aerial images. | Likely CVUSA, CVACT datasets     | [YouTube](https://www.youtube.com/watch?v=hUI9FJWYgPE)                 | Cross-view Geo-localization     |
+| **FSRA**                                     | [GitHub](https://github.com/Dmmm1997/FSRA?tab=readme-ov-file)                                                 | Feature Space Regularization and Adaptation for geo-localization. | Enhances feature representation between different views.     | CVUSA, CVACT datasets            | N/A                                                                    | Cross-view Geo-localization     |
+| **GTA-UAV**                                  | [GitHub](https://github.com/Yux1angJi/GTA-UAV)                                                                | Synthetic UAV dataset generated using GTA V.                    | Provides synthetic data and tools for UAV research.          | GTA-UAV dataset                  | N/A                                                                    | UAV Applications, Computer Vision |
+| **DINO-Mix**                                 | [GitHub](https://github.com/GaoShuang98/DINO-Mix)                                                             | Combines DINO with mixup techniques for self-supervised learning. | Improves representations via data augmentation.              | Standard image datasets          | N/A                                                                    | Self-Supervised Learning        |
+| **GeoText-1652**                             | [GitHub](https://github.com/MultimodalGeo/GeoText-1652)                                                       | Multimodal dataset with geotagged images and text.              | Enables multimodal geo-localization research.                | GeoText-1652 dataset             | N/A                                                                    | Multimodal Geo-localization     |
+| **University1652-Baseline**                  | [GitHub](https://github.com/layumi/University1652-Baseline)                                                   | Baseline models for the University-1652 dataset.                | Offers training pipeline and evaluation code.                | University-1652 dataset          | N/A                                                                    | Cross-view Geo-localization, UAV Imagery |
+| **Visual Localization**                      | [GitHub](https://github.com/TerboucheHacene/visual_localization)                                              | Practical examples for visual localization tasks.               | Provides code samples and tools.                             | Various datasets                 | N/A                                                                    | Visual Localization             |
+| **Satellite Image Deep Learning Techniques** | [GitHub](https://github.com/satellite-image-deep-learning/techniques)                                         | Compilation of deep learning techniques for satellite imagery.  | Aggregates resources and methodologies.                      | Various satellite image datasets | N/A                                                                    | Satellite Imagery Analysis      |
+| **UAV-VisLoc**                               | [GitHub](https://github.com/IntelliSensing/UAV-VisLoc/tree/main)                                              | Datasets and methods for UAV visual localization.               | Focuses on UAV and satellite imagery matching.               | UAV-VisLoc dataset               | N/A                                                                    | UAV Visual Localization         |
+| **UAVLocalization**                          | [GitHub](https://github.com/hmf21/UAVLocalization/tree/main)                                                  | Live examples and datasets for UAV localization.                | Includes practical code and datasets.                        | Datasets provided in the repo    | N/A                                                                    | UAV Localization                |
