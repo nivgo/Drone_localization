@@ -1,4 +1,3 @@
-Sure! Here's the updated table formatted to be compatible with GitHub markdown:
 
 # Repository Summary
 
